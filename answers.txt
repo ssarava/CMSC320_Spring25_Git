@@ -9,3 +9,7 @@ Answer: A field that data science can be applied to is healthcare. In healthcare
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: While Merging and Rebasing both deal with combining changes made to one or several directories or documents, Merging does this by combining the two "histories" of differing branches together, while Rebasing moves the entire branch to a new base.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to doing well in CMSC320; more importantly, I hope to use most of the content I have learned/will learn throughout my career!
