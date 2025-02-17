@@ -5,3 +5,7 @@ Answer: Git is a version control system that helps track changes, collaborate wi
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: A field that data science can be applied to is healthcare. In healthcare, data science can be used to predict patient outcomes, optimize treatments, and personalize care plans. For example, by using machine learning algorithms to analyze medical records, doctors can predict the likelihood of diseases such as diabetes or heart conditions in patients based on their history and lifestyle data.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: While Merging and Rebasing both deal with combining changes made to one or several directories or documents, Merging does this by combining the two "histories" of differing branches together, while Rebasing moves the entire branch to a new base.
